@@ -1,0 +1,2 @@
+module Responders
+end
