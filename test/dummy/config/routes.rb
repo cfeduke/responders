@@ -1,4 +1,8 @@
 Dummy::Application.routes.draw do
+  resources :phones
+
+  resources :tickets
+
   resources :users
 
   # The priority is based upon order of creation:
